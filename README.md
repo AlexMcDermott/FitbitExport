@@ -1,4 +1,4 @@
-# FitBit Export
+# Fitbit Export
 
 This is a small script I wrote that uses the Fitbit API to download all my old runs with GPS data and download their respective TCX files.
 
